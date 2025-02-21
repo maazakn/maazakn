@@ -51,6 +51,6 @@ Rather than relying solely on technical solutions, I prefer to examine the chall
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FA0874.svg?logo=devbox&logoColor=white&style=for-the-badge)](https://maaz-ahmed.vercel.app/) 
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:someone@example.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=logmein&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/maaz-ahmed-khan-516569188) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/thisismaaz) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/thisismaaz) 
 
 </div>
