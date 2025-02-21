@@ -1,8 +1,3 @@
-<!-- widget box -->
-<div align="center">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=maazakn&data=followers,repositories,stars,commits&theme=modern_ink&hide_border=true" alt="Maaz Ahmed Khan"  />
-</div>
-
 <!-- Introduction -->
 ## **Hi there 👋, I'm Maaz Ahmed 💻**
 [![Profile views](https://komarev.com/ghpvc/?username=maazakn&color=blue)](https://github.com/maazakn)
@@ -16,8 +11,7 @@ Rather than relying solely on technical solutions, I prefer to examine the chall
 - 🌱 I’m currently learning Web3
 - 👯 I’m looking to collaborate on web projects (MERN/MEAN Stack)
 
-<br/>
-
+<!-- Skils -->
 ##  Skills 🚀
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,javascript,typescript,bootstrap,html,css,tailwind,sass,jquery,emotion,wordpress" /><br>
@@ -27,22 +21,32 @@ Rather than relying solely on technical solutions, I prefer to examine the chall
     <img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket,git" /><br>
 </div>  
 
-<br/>
+<!-- Contributions -->
+## 🐍 GitHub Contribution 
+<div align="center">
+<!-- Widget box -->
+<img alt="github-contribution-widget" src="https://github-widgetbox.vercel.app/api/profile?username=maazakn&data=followers,repositories,stars,commits&hide_border=true&theme=solarized_dark" />
 
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maazakn/maazakn/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maazakn/maazakn/dist/github-snake.svg" />
+  <img alt="github-contribution" src="https://raw.githubusercontent.com/maazakn/maazakn/dist/github-snake.svg" />
+</picture>
+
+</div>
+
+<!-- Trophies -->
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=maazakn&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=5&margin-h=8" alt="trophy">
 </p>
-
-<br>
 
 <!-- Socials -->
 ## 🌐 How to reach mee
 <div align="center">
   
 <img src="assets/people.webp" width="40" alt="image"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
-
-<br>
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FA0874.svg?logo=devbox&logoColor=white&style=for-the-badge)](https://maaz-ahmed.vercel.app/) 
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:someone@example.com) 
