@@ -1,13 +1,14 @@
+<!-- widget box -->
+<div align="center">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=maazakn&data=followers,repositories,stars,commits&theme=modern_ink&hide_border=true" alt="Maaz Ahmed Khan"  />
+</div>
+
+<!-- Introduction -->
 ## **Hi there 👋, I'm Maaz Ahmed 💻**
 [![Profile views](https://komarev.com/ghpvc/?username=maazakn&color=blue)](https://github.com/maazakn)
 [![GitHub followers](https://img.shields.io/github/followers/maazakn?label=Follow&style=social)](https://github.com/maazakn)
 [![Top committers](https://user-badge.committers.top/pakistan/maazakn.svg)](https://github.com/maazakn)
 
-<!-- widget box -->
-<img src="https://github-widgetbox.vercel.app/api/profile?username=maazakn&data=followers,repositories,stars,commits&theme=modern_ink&hide_border=true" alt="Maaz Ahmed Khan"  />
-
-<!-- Introduction -->
-## **Overview 👉**
 <p>A software engineer who uses React, Angular, and NextJs technology to create full-stack mobile and web applications. I've finished a lot of tasks as training. Moreover, I'm learning react-native and web 3 to develop more exciting stuff.
 
 Rather than relying solely on technical solutions, I prefer to examine the challenges pre/post-development through problem-solving. I use cutting-edge techniques and methods for better user experience and scalability.</p>
